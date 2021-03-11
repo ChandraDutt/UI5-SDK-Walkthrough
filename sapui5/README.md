@@ -1,7 +1,7 @@
 ## Application Details
 |               |
 | ------------- |
-|**Generation Date and Time**<br>Thu Mar 11 2021 08:22:18 GMT+0000 (Coordinated Universal Time)|
+|**Generation Date and Time**<br>Thu Mar 11 2021 17:57:42 GMT+0000 (Coordinated Universal Time)|
 |**App Generator**<br>@sap/generator-fiori|
 |**App Generator Version**<br>1.1.4|
 |**Generation Platform**<br>SAP Business Application Studio|
@@ -9,7 +9,7 @@
 |**Service Type**<br>OData Url|
 |**Service URL**<br>https://services.odata.org/V2/Northwind/Northwind.svc/
 |**Module Name**<br>sapui5|
-|**Application Title**<br>UI5 Walkthrough|
+|**Application Title**<br>SAP UI5 SDK Walkthrough|
 |**Namespace**<br>sap.btp|
 |**UI5 Theme**<br>sap_fiori_3|
 |**UI5 Version**<br>Latest|
